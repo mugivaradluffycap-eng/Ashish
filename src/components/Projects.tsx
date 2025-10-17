@@ -28,7 +28,7 @@ export default function Projects() {
       ],
       techStack: ["Python", "Flask", "OpenCV", "MySQL"],
       gradient: "from-green-500 to-teal-500",
-      github: "https://github.com"
+      github: "https://github.com/Ashish-1710/Student-Attendance-system"
     },
     {
       title: "Credit Card Fraud Detection",
