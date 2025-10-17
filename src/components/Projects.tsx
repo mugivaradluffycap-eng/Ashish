@@ -1,4 +1,4 @@
-import { ExternalLink, Github } from 'lucide-react';
+import { /*ExternalLink,*/ Github } from 'lucide-react';
 
 export default function Projects() {
   const projects = [
@@ -113,13 +113,13 @@ export default function Projects() {
                         <Github size={18} />
                         View on GitHub
                       </a>
-                      <a
+                      {/* <a
                         href="#"
                         className="flex items-center gap-2 px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors duration-300 font-medium"
                       >
                         <ExternalLink size={18} />
                         Live Demo
-                      </a>
+                      </a> */}
                     </div>
                   </div>
                 </div>
