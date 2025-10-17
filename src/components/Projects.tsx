@@ -14,7 +14,7 @@ export default function Projects() {
       ],
       techStack: ["Python", "Flask", "HTML/CSS", "ML Algorithms"],
       gradient: "from-blue-500 to-cyan-500",
-      github: "https://github.com"
+      github: "https://github.com/Ashish-1710/Skill-Mate"
     },
     {
       title: "Student Attendance System",
@@ -42,7 +42,7 @@ export default function Projects() {
       ],
       techStack: ["Python", "Scikit-learn", "Pandas", "NumPy"],
       gradient: "from-purple-500 to-pink-500",
-      github: "https://github.com"
+      github: "https://github.com/Ashish-1710/Credit-Card-Fraud-detection"
     }
   ];
 
